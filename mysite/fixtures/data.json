@@ -48,7 +48,7 @@
     "fields": {
       "site_id": 2,
       "form_fields": {
-        "fields" :[
+        "fields": [
           {
             "label": "City",
             "id": "city",
